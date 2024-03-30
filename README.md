@@ -10,3 +10,6 @@ Home Screen:
 
 In Game Screen:
 ![2](https://github.com/arqamcodes/Hangman-Game-In-JS/assets/68507521/15bdde21-08b3-43ee-a198-72970694aedd)
+
+In Case Of Losing:
+![3](https://github.com/arqamcodes/Hangman-Game-In-JS/assets/68507521/6a60d1a2-2343-4f5b-9b26-7b7e926adfef)
