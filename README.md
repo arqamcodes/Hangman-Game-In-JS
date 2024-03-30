@@ -7,3 +7,6 @@ The project demonstrates proficiency in front-end development techniques and sho
 
 Home Screen:
 ![1](https://github.com/arqamcodes/Hangman-Game-In-JS/assets/68507521/f75a2ed8-6e61-4df0-b51d-0e070730d58d)
+
+In Game Screen:
+![2](https://github.com/arqamcodes/Hangman-Game-In-JS/assets/68507521/15bdde21-08b3-43ee-a198-72970694aedd)
