@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(155, 155, 155);
+}
+
+
+*{
+    font-family:"Montserrat", sans-serif ;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: red; */
+
+}
+.whole-game{
+  background-color: #f5f5f5; /* Background color for the game box */
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+}
+
+.hangman-box, .game-box {
+    text-align: center;
+}
+
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+    margin:20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.keyboard button {
+    width: 60px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.word-display {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.word-display .letter {
+    margin: 0 5px;
+    font-size: 24px;
+    list-style: none;
+    
+}
+
+
+.hint-text, .guesses-text {
+    margin-top: 20px;
+}
+
+.hint-text b, .guesses-text b {
+    color: #007bff; /* blue color */
+}
+.Play-Again{
+    width: 100px;
+    height: 35px;
+    margin-top: 50px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.Play-Again:hover{
+    background-color: white;
+}
